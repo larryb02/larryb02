@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Looking for New Grad/Entry Level Software Eng opportunities!
-- Currently working on [Web-SSH](https://github.com/larryb02/web-ssh)
+- Currently working on [Taurus](https://github.com/larryb02/web-ssh)
 <!--
 **larryb02/larryb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
