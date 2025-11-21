@@ -1,6 +1,5 @@
 ## Hi there 👋
-- Looking for New Grad/Entry Level Software Eng opportunities!
-- Currently working on [Taurus](https://github.com/larryb02/taurus)
+- yo gurt
 <!--
 **larryb02/larryb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
