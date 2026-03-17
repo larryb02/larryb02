@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 Software Engineer
 
-Interests: Go, Python, Distributed Systems, Automation
+Interests: Go, Python, Distributed Systems, Automation, Infrastructure
